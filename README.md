@@ -25,4 +25,4 @@ npm run test
 
 # To use
 
-Copy the payload decoder to Network Server (Currenlty The Things Network is supported)
+Copy the payload decoder to Network Server (currently, only The Things Network is supported)
